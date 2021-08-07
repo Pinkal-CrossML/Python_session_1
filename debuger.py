@@ -1,4 +1,4 @@
-# Todo: This file is all about "debugging with pdb module".
+#  This file is all about "debugging with pdb module".
 import pdb
 
 pdb.set_trace()

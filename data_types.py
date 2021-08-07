@@ -3,7 +3,7 @@ description
 In this Python file we will discuss python data type
 like list(), tuple() and  dictionary() with built-in methods.
 """
-# TODO: Python List and built-in methods
+# Python List and built-in methods
 student_name = ["Pinkal", "Aman", "Pooja", "Jaspreet"]
 student_age = [23, 24, 20, 24]
 
@@ -90,7 +90,7 @@ cars_price["Thar"] = 300000
 print(cars_price)
 
 
-# TODO: Python Tuple and built-in methods
+# : Python Tuple and built-in methods
 week_days = ("sunday","Monday", "Tuesday","wednesday",)
 
 # Tuple index() Method
